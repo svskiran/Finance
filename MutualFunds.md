@@ -11,6 +11,9 @@
 * Stable funds(less downside risk)
 * Decided based on Mkt cap
 * Top 100 companies
+* Dominant players
+* Mature business with track record
+* Liquid with reasonably high trading volumes, meaning easy to sell
 ### Mid cap: 
 * Growth potential
 * 101 - 250 in AMFI
