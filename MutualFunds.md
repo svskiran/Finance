@@ -11,14 +11,12 @@
 * Stable funds(less downside risk)
 * Decided based on Mkt cap
 * Top 100 companies
-* Dominant players
-* Mature business with track record
-* Liquid with reasonably high trading volumes, meaning easy to sell
+* Dominant players, Mature business with track record, Liquid with reasonably high trading volumes, meaning easy to sell
 ### Mid cap: 
-* Growth potential
+* Growth potential, emerging type
 * 101 - 250 in AMFI
 ### Small cap: 
-* Risk 
+* Highly volatile, Might be challening to sell
 * Any company below 250 comes under this
 ### Who decides Large/Mid/Small cap
 * Decided by AMFI website
