@@ -1,9 +1,13 @@
+**SIP** : Systematic Investment Plan
+
+**SWP**: Systematic Withdrawl Plan
 
 **IPO** : Initial Public Offering
 
 **NFO**: New Fund Offering
 
 **SEBI**: Securities and Exchange Board of India
+
 
 **BSE** : Bombay Stock Exchange
 
@@ -21,6 +25,7 @@
 * Benchmark NIFTY 500 Multicap 50:25:25 TRI Index
 * Minimum 5000RS to buy
 * Monthly minimum 500
+* Mitra SIP plan
 
 ### Large cap: 
 * Stable funds(less downside risk)
