@@ -10,5 +10,7 @@ Stable funds(less downside risk)
 Growth potential
 ### Small cap: 
 Risk 
+### MCap/Market Cap
+* Share price * No of shares
 
 
