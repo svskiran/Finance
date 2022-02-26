@@ -1,10 +1,18 @@
 
-**NFO**: New Fund Offer
+**IPO** : Initial Public Offering
+
+**NFO**: New Fund Offering
+
 **SEBI**: Securities and Exchange Board of India
-BSE : Bombay Stock Exchange
-NSE: National Stock Exchange
-MSEI: Metropolitan Stock Exchange of India
+
+**BSE** : Bombay Stock Exchange
+
+**NSE**: National Stock Exchange
+
+**MSEI**: Metropolitan Stock Exchange of India
+
 **AMFI** : Association of Mutual Funds in India
+
 **Mkt cap**: Share price * No of shares
 
 **SBI MULTICAP FUND:**
