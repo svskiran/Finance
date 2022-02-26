@@ -16,7 +16,11 @@
 **Mkt cap**: Share price * No of shares
 
 **SBI MULTICAP FUND:**
-25% Large cap + 25% Mid cap + 25% Small cap + remaining 25% is decided by Fund manager
+* 25% Large cap + 25% Mid cap + 25% Small cap + remaining 25% is decided by Fund manager
+* Good Fund manager Mr. R Srinivasan
+* Benchmark NIFTY 500 Multicap 50:25:25 TRI Index
+* Minimum 5000RS to buy
+* Monthly minimum 500
 
 ### Large cap: 
 * Stable funds(less downside risk)
