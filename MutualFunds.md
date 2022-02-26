@@ -1,6 +1,9 @@
 
 **NFO**: New Fund Offer
 **SEBI**: Securities and Exchange Board of India
+BSE : Bombay Stock Exchange
+NSE: National Stock Exchange
+MSEI: Metropolitan Stock Exchange of India
 **AMFI** : Association of Mutual Funds in India
 **Mkt cap**: Share price * No of shares
 
@@ -16,9 +19,9 @@
 * Growth potential, emerging type
 * 101 - 250 in AMFI
 ### Small cap: 
-* Highly volatile, Might be challening to sell
+* Highly volatile, Might be challeniging to sell, but may give heavy returns
 * Any company below 250 comes under this
 ### Who decides Large/Mid/Small cap
 * Decided by AMFI website
-
+* https://www.amfiindia.com/research-information/other-data/categorization-of-stocks
 
