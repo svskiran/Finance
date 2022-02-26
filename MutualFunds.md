@@ -20,6 +20,7 @@
 **Mkt cap**: Share price * No of shares
 
 **SBI MULTICAP FUND:**
+* Suitable for long term investment
 * 25% Large cap + 25% Mid cap + 25% Small cap + remaining 25% is decided by Fund manager
 * Good Fund manager Mr. R Srinivasan
 * Benchmark NIFTY 500 Multicap 50:25:25 TRI Index
