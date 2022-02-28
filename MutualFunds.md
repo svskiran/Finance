@@ -6,6 +6,10 @@
 
 **NFO**: New Fund Offering
 
+**AMC**: Asset Management Company
+
+**AUM**: Assets Under Management
+
 **SEBI**: Securities and Exchange Board of India
 
 
