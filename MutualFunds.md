@@ -19,6 +19,10 @@
 
 **Mkt cap**: Share price * No of shares
 
+**Regular** : Investment happens via some intermediary like Financial Advisor/Bank relations
+
+**Direct** : The fund is directly bought from company
+
 **SBI MULTICAP FUND:**
 * Suitable for long term investment
 * 25% Large cap + 25% Mid cap + 25% Small cap + remaining 25% is decided by Fund manager
